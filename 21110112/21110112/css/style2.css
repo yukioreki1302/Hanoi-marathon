@@ -1,0 +1,38 @@
+/* File: style2.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    /* Màu nền của trang */
+    background-image: url('../img/background1.jpg');
+    /* Đường dẫn đến hình nền */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #000;
+    /* Màu chữ của trang */
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background-color: #fff;
+    /* Màu nền của phần nội dung */
+    padding: 20px;
+    border-radius: 10px;
+    /* Để bo tròn góc cho phần nội dung */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* Đổ bóng cho phần nội dung */
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-check {
+    margin-bottom: 15px;
+}
+
+.btn {
+    width: 100%;
+}

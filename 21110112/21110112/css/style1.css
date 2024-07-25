@@ -1,0 +1,22 @@
+/* File: custom.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.header {
+    text-align: center;
+    padding: 20px;
+}
+
+.topimage {
+    margin-bottom: 20px;
+}
+
+.bxslider {
+    margin-bottom: 40px;
+}
+
+.btn {
+    margin-right: 10px;
+}
